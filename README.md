@@ -11,17 +11,21 @@ Very Simple tool to use:
 
 Step1: Plug your Device into the USB port
 
-Step2: Open TZXduino Uploader and select the COM port
+Step2: Open TZX Tools
 
-Step3: Choose which type of Arduino you use
+Step3: If you are using Maxduino upload the logo first
 
-Step4: Choose which Firmware you need
+Step4 Select the firmware
 
-Step5: Display you are using
+Step5: Select the COM port
 
-Step6: If you are using an LCD display with an I2C adapter you need to specify the I2C address
+Step6: Choose which type of Arduino you use
+
+Step7: Display you are using
 
 Step7: Upload
+
+Demo https://www.youtube.com/watch?v=Hq_eBhLUoj0
 
 If you do not know the I2C address use an I2C scanner sketch to find out > https://playground.arduino.cc/Main/I2cScanner/
 
