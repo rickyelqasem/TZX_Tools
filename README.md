@@ -1,3 +1,5 @@
+NOW WITH SUPPORT FOR MAXDUINO ULTIMATE DEVICES
+
 Tool to help you use and update your MaxDuino, TZXduino, CASDuino, ArduiTape, ZXuiTape, CPCuiTape, BeebuiTape, MSXuiTape, MZuiTape and some features like UEF Extraction (coming soon)
 
 MaxDuino:
