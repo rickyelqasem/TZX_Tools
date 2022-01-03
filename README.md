@@ -1,3 +1,5 @@
+I removed 1.1.7.3 < issue with nano's which I'll fix for 1.1.7.4
+
 NOW WITH SUPPORT FOR MAXDUINO ULTIMATE DEVICES
 
 Tool to help you use and update your MaxDuino, TZXduino, CASDuino, ArduiTape, ZXuiTape, CPCuiTape, BeebuiTape, MSXuiTape, MZuiTape and some features like UEF Extraction (coming soon)
