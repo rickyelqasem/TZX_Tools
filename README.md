@@ -1,8 +1,6 @@
-I removed 1.1.7.3 < issue with nano's which I'll fix for 1.1.7.4
-
 NOW WITH SUPPORT FOR MAXDUINO ULTIMATE DEVICES
 
-Tool to help you use and update your MaxDuino, TZXduino, CASDuino, ArduiTape, ZXuiTape, CPCuiTape, BeebuiTape, MSXuiTape, MZuiTape and some features like UEF Extraction (coming soon)
+Windows Tool to help you use and update your MaxDuino, TZXduino, CASDuino, ArduiTape, ZXuiTape, CPCuiTape, BeebuiTape, MSXuiTape, MZuiTape and some features like UEF Extraction (coming soon)
 
 MaxDuino:
   If you want to have the splash screen(logo) loaded you have to upload that before uploading the firmware
@@ -40,3 +38,5 @@ TZXduino, CASduino and ArduiTape developed by Duncan Edwards and Andrew Beer
 MaxDuino developed by Rafael Molina Chasserot
 
 DigiWavuino developed by ME! 
+
+To keep things legal please install the Arduino IDE. I don't need it installed but I am calling some exes. 
