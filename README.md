@@ -1,4 +1,5 @@
 v1.0.8.7 fix for UNO boards
+
 v1.0.8.6 - Maxduino v3 OTLA support, Volume control while animation is loaded, and USBasp support
 
 Setup file has been moved to the release section to the right of this window
